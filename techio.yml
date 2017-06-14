@@ -1,0 +1,27 @@
+title : 3 javascript libraries in 5 minutes and 45 secondes
+
+plan:
+  - title: Welcome
+    statement: markdowns/welcome.md
+  - title: Babel.js
+    statement: markdowns/babel.md
+  - title: Mocha.js
+    statement: markdowns/mocha.md
+  - title: Chart.js
+    statement: markdowns/chart.md
+  - title: Egg.js
+    statement: markdowns/egg.md
+
+projects:
+  babel:
+    root: "/babel"
+    runner: techio/node-npm-runner:latest
+  mocha:
+    root: "/mocha"
+    runner: techio/node-npm-runner:latest
+  chart:
+    root: "/chart"
+    runner: techio/node-npm-runner:latest
+  egg:
+    root: "/egg"
+    runner: techio/node-npm-runner:latest

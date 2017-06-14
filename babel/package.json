@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-project-template",
+    "version": "1.0.0",
+    "description": "",
+    "author": "FERNANDEZ Quentin",
+    "license": "ISC",
+    "scripts": {
+        "build": "babel es2015.js -d dist"
+    },
+    "devDependencies": {
+        "babel-preset-env": "^1.5.2",
+        "babel-cli": "^6.24.1"
+    }
+}
