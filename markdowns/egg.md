@@ -4,11 +4,13 @@
 
 - Egg.js
 
-    - This api allows you to put hidden features in your website.
+    - This library allows you to put hidden features in your website.
     - You can try it out by running the playground then typing "techio" in the viewer.
 
 - Sweetalert.js
-    - This is an api to can display sweet notifications on your website with ease.
+    - This is an library to can display sweet notifications on your website with ease.
     - You can see an example by typing "sweet" in the viewer.
 
 @[Egg]({ "project": "egg", "stubs": ["index.html", "script.js"], "command": "bash ./run.sh", "layout": "aside" })
+
+For more information follow this [link](http://thatmikeflynn.com/egg.js/) for Egg.js and this [link](http://t4t5.github.io/sweetalert/) for Sweetalert.js.

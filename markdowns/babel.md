@@ -8,4 +8,6 @@ In this playground, you can see how easy it is to setup Babel by simply editing 
 
 We've provided a javascript file with ES2015 syntax so that you can see the result of the translation to ES5 that Babel produces.
 
-@[ES2015 to ES5]({ "project": "babel", "stubs": ["package.json", ".babelrc", "es2015.js"], "command": "bash ./run.sh", "layout": "aside" })
+@[ES2015 to ES5]({ "project": "babel", "stubs": ["es2015.js","package.json", ".babelrc"], "command": "bash ./run.sh", "layout": "aside" })
+
+For more information follow this [link](http://babeljs.io/).
