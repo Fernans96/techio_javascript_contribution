@@ -2,8 +2,8 @@
 
 ## What is Chart ?
 
-Chart is a tools that allow you to create up to 8 differents types of chart.
+Chart is a tool that allows you to create up to 8 different chart types.
 
-With this playground, you can see how easyly implement your charts in an html file, and the implementation in javascript needed to create a simple chart.
+In this playground, you can see how to easily create a chart in an html file with its corresponding implementation in javascript.
 
 @[Chart exemples]({ "project": "chart", "stubs": ["index.html", "chart.js"], "command": "bash ./run.sh", "layout": "aside" })
