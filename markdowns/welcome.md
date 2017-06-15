@@ -9,3 +9,5 @@
 -  Chart.js 
 
 ## Have fun !
+
+The source code of this playground is available on [Github](https://github.com/Fernans96/techio_javascript_contribution)
