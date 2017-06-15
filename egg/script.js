@@ -5,6 +5,6 @@ var egg = new Egg("t,e,c,h,i,o", function() {
 }).listen();
 
 
-var validate = new Egg("s,w,e,a,t", function() {
+var validate = new Egg("s,w,e,e,t", function() {
     swal("ok");
 }).listen();

@@ -1,14 +1,14 @@
 # Bonus
 
-## You arrived to the end of this course bravely, so here two little libraries bonus !
+## You bravely arrived at the end of this course, so here are two little bonus libraries!
 
 - Egg.js
 
-    - This api allow you to put hide features on your website.<br>
-    - You can try it by typing "techio" on the playground.
+    - This api allows you to put hidden features in your website.
+    - You can try it out by running the playground then typing "techio" in the viewer.
 
 - Sweetalert.js
-    - This api make notification on your website easy and sweat.<br>
-    - You can see an example by typing "sweat" on the playground.
+    - This is an api to can display sweet notifications on your website with ease.
+    - You can see an example by typing "sweet" in the viewer.
 
 @[Egg]({ "project": "egg", "stubs": ["index.html", "script.js"], "command": "bash ./run.sh", "layout": "aside" })
