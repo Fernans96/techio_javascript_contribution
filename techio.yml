@@ -9,7 +9,7 @@ plan:
     statement: markdowns/mocha.md
   - title: Chart.js
     statement: markdowns/chart.md
-  - title: Egg.js
+  - title: Bonus
     statement: markdowns/egg.md
 
 projects:
