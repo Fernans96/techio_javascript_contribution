@@ -11,4 +11,4 @@
 
 @[Egg]({ "project": "egg", "stubs": ["index.html", "script.js"], "command": "bash ./run.sh", "layout": "aside" })
 
-For more information follow this [link](http://thatmikeflynn.com/egg.js/) for Egg.js and this [link](http://t4t5.github.io/sweetalert/) for Sweetalert.js.
+For more information Egg.js, [follow this link](http://thatmikeflynn.com/egg.js/). To learn more about Sweetalert.js, [click this link](http://t4t5.github.io/sweetalert/).
