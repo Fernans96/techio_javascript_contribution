@@ -1,9 +1,7 @@
 {
-    "name": "nodejs-project-template",
+    "name": "babel-tests",
     "version": "1.0.0",
-    "description": "",
-    "author": "FERNANDEZ Quentin",
-    "license": "ISC",
+    "license": "MIT",
     "scripts": {
         "build": "babel es2015.js -d dist"
     },
