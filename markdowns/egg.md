@@ -1,4 +1,4 @@
-## You bravely arrived at the end of this course, so here are two little bonus libraries!
+## You have bravely arrived at the end of this course, so here are two little bonus libraries!
 
 - Egg.js
 
@@ -6,7 +6,7 @@
     - You can try it out by running the playground then typing "techio" in the viewer.
 
 - Sweetalert.js
-    - This is an library to can display sweet notifications on your website with ease.
+    - This library enables you to display sweet notifications on your website with ease.
     - You can see an example by typing "sweet" in the viewer.
 
 @[Egg]({ "project": "egg", "stubs": ["index.html", "script.js"], "command": "bash ./run.sh", "layout": "aside" })
