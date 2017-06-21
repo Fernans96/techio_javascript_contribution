@@ -1,5 +1,3 @@
-# Bonus
-
 ## You bravely arrived at the end of this course, so here are two little bonus libraries!
 
 - Egg.js
